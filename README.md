@@ -4,17 +4,17 @@ Análise Exploratória de Dados (EDA) e Business Intelligence (BI) para Vendas d
 
 Descrição do Projeto
 
-Este projeto visa analisar os padrões de vendas de sorvete e sua relação com fatores externos como temperatura, chuva e fluxo de turistas. Utilizamos Python para EDA (Análise Exploratória de Dados) e Power BI para a construção de dashboards interativos, ajudando na previsão de demanda e otimização de estratégias comerciais.
+Este projeto visa analisar os padrões de vendas de sorvete e sua relação com fatores externos como temperatura, chuva e fluxo de turistas. Utilizei Python para EDA (Análise Exploratória de Dados) e Power BI para a construção de dashboards interativos, ajudando na previsão de demanda e otimização de estratégias comerciais.
 
 1. Análise Exploratória de Dados (EDA)
 
 Principais Passos da EDA
 
-Carregamento dos Dados: Importamos o conjunto de dados contendo temperatura, preços, número de turistas e vendas.
+Carregamento dos Dados: Importei o conjunto de dados contendo temperatura, preços, número de turistas e vendas.
 
-Limpeza e Preprocessamento: Renomeamos colunas e verificamos inconsistências.
+Limpeza e Preprocessamento: Renomeei colunas e verifiquei inconsistências.
 
-Análise Estatística: Calculamos médias, distribuições e correlações entre variáveis.
+Análise Estatística: Calculei médias, distribuições e correlações entre variáveis.
 
 Geração de Gráficos:
 
